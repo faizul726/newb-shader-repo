@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Newb X Legacy 1",
+        "thumbnail": "https://media.forgecdn.net/attachments/1067/805/overworld-sunrise-0.jpg",
+        "creator": "devendrn",
+        "platforms": ["ANDROID"],
+        "downloadLink": "link to download",
+        "otherLinks": ["link1", "link2"]
+    },
+    {
+        "title": "Newb X Legacy 2",
+        "thumbnail": "https://media.forgecdn.net/attachments/1067/785/overworld-night-1.jpg",
+        "creator": "devendrn",
+        "platforms": ["ANDROID", "WINDOWS"],
+        "downloadLink": "link to download",
+        "otherLinks": ["link1", "link2"]
+    },
+    {
+        "title": "Newb X Legacy 3",
+        "thumbnail": "https://media.forgecdn.net/attachments/1067/787/overworld-rain-1.jpg",
+        "creator": "devendrn",
+        "platforms": ["ANDROID", "IOS"],
+        "downloadLink": "link to download",
+        "otherLinks": ["link1", "link2"]
+    },
+]
