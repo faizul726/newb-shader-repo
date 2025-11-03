@@ -6,9 +6,9 @@
         "platforms": ["ANDROID", "IOS", "WINDOWS"],
         "downloadLink": "https://github.com/devendrn/newb-x-mcbe/releases/download/v16/newb-x-legacy-16.0-merged.mcpack",
         "otherLinks": [
-            { "title": "GitHub", "url": "https://github.com/devendrn/newb-x-mcbe" },
+            { "title": "GitHub", "link": "https://github.com/devendrn/newb-x-mcbe" },
             { "title": "MCPEDL post", "link": "https://mcpedl.com/newb-shader/" }
-            { "title": "Website", "https://devendrn.github.io/" }
+            { "title": "Website", "link": "https://devendrn.github.io/" }
         ]
     }
 ]
