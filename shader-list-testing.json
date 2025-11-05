@@ -1,8 +1,36 @@
 [
     {
+        "id": 0,
         "title": "Newb X Legacy",
-        "thumbnail": "https://media.forgecdn.net/attachments/1067/805/overworld-sunrise-0.jpg",
         "creator": "devendrn",
+        "readme": "newb_x_legacy",
+        "screenshots" [
+            "https://media.forgecdn.net/attachments/1067/794/overworld-cave-0.jpg",
+            "https://media.forgecdn.net/attachments/1067/806/underwater-1.jpg",
+            "https://media.forgecdn.net/attachments/1067/805/overworld-sunrise-0.jpg",
+            "https://media.forgecdn.net/attachments/1067/797/overworld-night-1.jpg",
+            "https://media.forgecdn.net/attachments/1067/801/overworld-day-0.jpg",
+            "https://media.forgecdn.net/attachments/1067/803/overworld-night-3.jpg",
+            "https://media.forgecdn.net/attachments/1067/786/overworld-night-2.jpg",
+            "https://media.forgecdn.net/attachments/1067/788/overworld-day-3.jpg",
+            "https://media.forgecdn.net/attachments/1067/780/overworld-day-1.jpg",
+            "https://media.forgecdn.net/attachments/1067/785/overworld-night-1.jpg",
+            "https://media.forgecdn.net/attachments/1067/781/overworld-day-2.jpg",
+            "https://media.forgecdn.net/attachments/1067/775/overworld-night-5.jpg",
+            "https://media.forgecdn.net/attachments/1068/529/overworld-snow-0.png",
+            "https://media.forgecdn.net/attachments/1067/791/underwater-0.jpg",
+            "https://media.forgecdn.net/attachments/1068/528/overworld-interior-0.png",
+            "https://media.forgecdn.net/attachments/1067/804/overworld-rain-0.jpg",
+            "https://media.forgecdn.net/attachments/1067/792/end-0.jpg",
+            "https://media.forgecdn.net/attachments/1067/795/overworld-cave-2.jpg",
+            "https://media.forgecdn.net/attachments/1067/802/overworld-day-4.jpg",
+            "https://media.forgecdn.net/attachments/1067/793/end-1.jpg",
+            "https://media.forgecdn.net/attachments/1067/784/overworld-night-0.jpg",
+            "https://media.forgecdn.net/attachments/1067/787/overworld-rain-1.jpg",
+            "https://media.forgecdn.net/attachments/1067/776/nether-0.jpg",
+            "https://media.forgecdn.net/attachments/1068/527/overworld-rain-3.png",
+            "https://media.forgecdn.net/attachments/1067/777/overworld-cave-1.jpg"    
+        ]
         "platforms": ["ANDROID", "IOS", "WINDOWS"],
         "downloadLink": "https://github.com/devendrn/newb-x-mcbe/releases/download/v16/newb-x-legacy-16.0-merged.mcpack",
         "otherLinks": [
