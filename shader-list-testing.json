@@ -32,6 +32,7 @@
             "https://media.forgecdn.net/attachments/1067/777/overworld-cave-1.jpg"    
         ],
         "platforms": ["ANDROID", "IOS", "WINDOWS"],
+        "supportedVersion": "1.21.20",
         "downloadLink": "https://github.com/devendrn/newb-x-mcbe/releases/download/v16/newb-x-legacy-16.0-merged.mcpack",
         "otherLinks": [
             { "title": "GitHub", "link": "https://github.com/devendrn/newb-x-mcbe" },
