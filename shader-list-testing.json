@@ -30,7 +30,7 @@
             "https://media.forgecdn.net/attachments/1067/776/nether-0.jpg",
             "https://media.forgecdn.net/attachments/1068/527/overworld-rain-3.png",
             "https://media.forgecdn.net/attachments/1067/777/overworld-cave-1.jpg"    
-        ]
+        ],
         "platforms": ["ANDROID", "IOS", "WINDOWS"],
         "downloadLink": "https://github.com/devendrn/newb-x-mcbe/releases/download/v16/newb-x-legacy-16.0-merged.mcpack",
         "otherLinks": [
